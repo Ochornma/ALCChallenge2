@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "342807241808",
+    "firebase_url": "https://alcchallenge2-43364.firebaseio.com",
+    "project_id": "alcchallenge2-43364",
+    "storage_bucket": "alcchallenge2-43364.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342807241808:android:eebddd414f1c9fdf",
+        "android_client_info": {
+          "package_name": "com.example.alcchallenge2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342807241808-aue1jc6i5dcjikqm570llp29ejl41v2j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alcchallenge2",
+            "certificate_hash": "2e0985ed8863285947fcb7cd807f185320624b7c"
+          }
+        },
+        {
+          "client_id": "342807241808-aj6bqm757r5iuapkbk6mqi2m9n86eben.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSm1Iwpve0rpOUcUM8pbI0jT8eKkY9kJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342807241808-aj6bqm757r5iuapkbk6mqi2m9n86eben.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
